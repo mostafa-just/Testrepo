@@ -1,5 +1,5 @@
 # Testrepo
 
-##Editing te file
+##Editing the file
 
 Its a marked sown file in this repository
