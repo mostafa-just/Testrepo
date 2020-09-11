@@ -2,4 +2,4 @@
 
 ##Editing the file
 
-Its a marked sown file in this repository
+Its a marked down file in this repository
